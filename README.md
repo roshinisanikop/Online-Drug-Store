@@ -24,3 +24,11 @@ Customer/ User website has 5 pages:
   4. About Page- Dummy page about the details of the website
   5. Cart Page- to add all items to cart and go to bill the total amount. 
   
+## How to run it? 
+ > Make sure to have XAMPP installed and enable MySQL, Apache on the XAMPP Control Panel. 
+  
+ > Find the connect.php file under the Partials Folder and change the port for MySQL to 3306 or set up SQL on port number 3307 to establish a connection to the database.
+  ### How to log in to the Admin Page?
+    Username : drugstore@gmail.com
+    Password : drugstore 
+    
