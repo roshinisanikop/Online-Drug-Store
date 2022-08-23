@@ -18,7 +18,7 @@ The Admin Panel, (deviced only for the admin users) has 4 pages -
   6. Log out Button that logs you out and redirects you to the login Page.
   
 Customer/ User website has 5 pages:
-  1. Home page
+  1. Home page 
   2. Login Page/Registration Page for customers
   3. Products Page- Shop Button that leads to Products page categorized according to Skincare, Pain Relief etc
   4. About Page- Dummy page about the details of the website
